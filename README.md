@@ -7,7 +7,7 @@ The Expense Splitting System is a Django-based web application that allows users
 
 ## API Contracts
 
-### Endpoint: /api/split_expense/
+### Endpoint: http://localhost:8000/api/
 
 #### Request
 
